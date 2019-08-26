@@ -10,7 +10,7 @@ public static void main(String args[])
 
        max = (a > b && a > c && a > d) ? a : ((b > c && b > d) ?  b : (c > d ? c : d)); 
 
-       System.out.println("Largest number is: " + max + );  
+       System.out.println("Largest number is: "+ max);  
      }  
    } 
 
