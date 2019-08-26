@@ -1,18 +1,4 @@
-1.a. 2
-  b. 2.5
-  c. true
-
-2.a. 50+,12
-  b. 8,10,10
-     10,10,10
-
-3.a. 1
-  b. 15
-  c. 14
-  d. 25
-  e. 1
-
-4. class GreatestNo
+class GreatestNo
    { 
 
 public static void main(String args[])  
@@ -26,5 +12,4 @@ public static void main(String args[])
      }  
    } 
 
-5.
 
