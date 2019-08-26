@@ -1,6 +1,6 @@
 //To check leap year or not using if-else
 
-class LeapYearIfElse
+class LeapYearIfElseIfLadder
  {
         public static void main(String[] args) 
         {
