@@ -5,7 +5,7 @@ class SwitchCalculator
 	public static void main(String[] args) 
 	{
 		float a=7, b=77, answer;
-		char d;
+		char d='*';
     double value = Math.pow(a, b);
     
     switch (d)
