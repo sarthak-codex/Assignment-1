@@ -1,3 +1,5 @@
+//4. Write a java program to find the greatest among 4 numbers using ternary operator.
+
 class GreatestNo
    { 
 
@@ -12,4 +14,5 @@ public static void main(String args[])
      }  
    } 
 
-
+//OUTPUT
+//Largest number is: 77
