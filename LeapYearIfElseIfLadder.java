@@ -1,4 +1,4 @@
-//To check leap year or not using if-else
+//To check leap year or not using if-else-if ladder
 
 class LeapYearIfElseIfLadder
  {
