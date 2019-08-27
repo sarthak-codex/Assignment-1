@@ -6,7 +6,7 @@ class SwitchCalculator
 	{
 		float a=7, b=77, answer;
 		char d='^';
-    
+                double value = Math.pow(a, b);
     
     switch (d)
 		{
@@ -31,7 +31,7 @@ class SwitchCalculator
 			break;
 		
     case '^':
-                        double value = Math.pow(a, b);
+                        
 		                System.out.println("The answer of a^b= "+value);
                         break;    
     default:
